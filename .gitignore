@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+anaconda_projects/
 *.csv
 __pycache__/
 *.pyc
